@@ -9,11 +9,11 @@ docker build -t pre-redirect-server .
 ## Start
 
 ```bash
-docker run -dit --name redirect-me-daddy -p 80:80 pre-redirect-server
+docker run -dit --name pre-redirect-instance -p 80:80 pre-redirect-server
 ```
 
 ## Destroy
 
 ```bash
-docker stop redirect-me-daddy && docker rm redirect-me-daddy
+docker stop pre-redirect-instance && docker rm pre-redirect-instance
 ```
