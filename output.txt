@@ -1,0 +1,129 @@
+# eco-indicator.com
+RewriteRule ^(.*) https://support.simapro.com/articles/Manual/SimaPro-Methods-manual [R=301,L]
+
+# eco-indicator.nl
+RewriteRule ^(.*) https://support.simapro.com/articles/Manual/SimaPro-Methods-manual [R=301,L]
+
+# presustainability.com
+RewriteRule ^(.*) https://pre-sustainability.com$1 [R=301,L]
+
+# preconsultants.com
+RewriteRule ^(.*) https://pre-sustainability.com$1 [R=301,L]
+
+# levenscyclusanalyse.nl
+RewriteRule ^(.*) https://pre-sustainability.com/articles/life-cycle-assessment-lca-basics [R=301,L]
+
+# share-collect.com
+RewriteRule ^(.*) https://simapro.com/products/simapro-share [R=301,L]
+
+# pre.nl
+RewriteRule ^(.*) https://pre-sustainability.com$1 [R=301,L]
+
+# pre-sustainability.org
+RewriteRule ^(.*) https://pre-sustainability.com$1 [R=301,L]
+
+# productsocialimpactassessment.com
+RewriteRule ^(.*) https://product-social-impact-assessment.com$1 [R=301,L]
+
+# lcia-recipe.net
+RewriteRule ^(.*) https://www.rivm.nl/en/life-cycle-assessment-lca/recipe [R=301,L]
+
+# simapro.de
+RewriteRule ^(.*) https://network.simapro.com/esuservices [R=301,L]
+
+# lca-software.com
+RewriteRule ^(.*) https://simapro.com$1 [R=301,L]
+
+# simapro.us
+RewriteRule ^(.*) https://network.simapro.com/ltsexperts [R=301,L]
+
+# simapro.nl
+RewriteRule ^(.*) https://network.simapro.com/pre [R=301,L]
+
+# simapro.be
+RewriteRule ^(.*) https://network.simapro.com/pre [R=301,L]
+
+# simapro.dk
+RewriteRule ^(.*) https://network.simapro.com/20lca-consultants [R=301,L]
+
+# shareandcollect.com
+RewriteRule ^(.*) https://simapro.com/products/simapro-share [R=301,L]
+
+# social-assessment.com
+RewriteRule ^(.*) https://product-social-impact-assessment.com$1 [R=301,L]
+
+# social-assessment.org
+RewriteRule ^(.*) https://product-social-impact-assessment.com$1 [R=301,L]
+
+# www.eco-indicator.nl
+RewriteRule ^(.*) https://support.simapro.com/articles/Manual/SimaPro-Methods-manual [R=301,L]
+
+# socialassessment.org
+RewriteRule ^(.*) https://product-social-impact-assessment.com$1 [R=301,L]
+
+# www.lca-software.com
+RewriteRule ^(.*) https://simapro.com$1 [R=301,L]
+
+# www.levenscyclusanalyse.nl
+RewriteRule ^(.*) https://pre-sustainability.com/articles/life-cycle-assessment-lca-basics [R=301,L]
+
+# www.pre-sustainability.com
+RewriteRule ^(.*) https://pre-sustainability.com$1 [R=301,L]
+
+# www.pre-sustainability.org
+RewriteRule ^(.*) https://pre-sustainability.com$1 [R=301,L]
+
+# www.eco-indicator.com
+RewriteRule ^(.*) https://support.simapro.com/articles/Manual/SimaPro-Methods-manual [R=301,L]
+
+# www.preconsultants.com
+RewriteRule ^(.*) https://pre-sustainability.com$1 [R=301,L]
+
+# www.lcia-recipe.net
+RewriteRule ^(.*) https://www.rivm.nl/en/life-cycle-assessment-lca/recipe [R=301,L]
+
+# www.pre.nl
+RewriteRule ^(.*) https://pre-sustainability.com$1 [R=301,L]
+
+# www.presustainability.com
+RewriteRule ^(.*) https://pre-sustainability.com$1 [R=301,L]
+
+# www.productsocialimpactassessment.com
+RewriteRule ^(.*) https://product-social-impact-assessment.com$1 [R=301,L]
+
+# www.product-social-impact-assessment.com
+RewriteRule ^(.*) https://product-social-impact-assessment.com$1 [R=301,L]
+
+# www.shareandcollect.com
+RewriteRule ^(.*) https://simapro.com/products/simapro-share [R=301,L]
+
+# www.simapro.com
+RewriteRule ^(.*) https://simapro.com$1 [R=301,L]
+
+# www.simapro.be
+RewriteRule ^(.*) https://network.simapro.com/pre [R=301,L]
+
+# www.simapro.de
+RewriteRule ^(.*) https://network.simapro.com/esuservices [R=301,L]
+
+# www.simapro.us
+RewriteRule ^(.*) https://network.simapro.com/ltsexperts [R=301,L]
+
+# www.simapro.dk
+RewriteRule ^(.*) https://network.simapro.com/20lca-consultants [R=301,L]
+
+# www.share-collect.com
+RewriteRule ^(.*) https://simapro.com/products/simapro-share [R=301,L]
+
+# www.simapro.nl
+RewriteRule ^(.*) https://network.simapro.com/pre [R=301,L]
+
+# www.social-assessment.com
+RewriteRule ^(.*) https://product-social-impact-assessment.com$1 [R=301,L]
+
+# www.social-assessment.org
+RewriteRule ^(.*) https://product-social-impact-assessment.com$1 [R=301,L]
+
+# www.socialassessment.org
+RewriteRule ^(.*) https://product-social-impact-assessment.com$1 [R=301,L]
+
